@@ -3,19 +3,7 @@ import 'bulma/css/bulma.min.css';
 import ScrollAnimation from "react-animate-on-scroll";
 import Solutions from '../assets/servicesC.js';
 import '../assets/css/Wazunga.css'
-import webDesign from '../assets/svg_icon/computadora.png';
-import mobile from '../assets/svg_icon/ui.png';
-import dataBase from '../assets/svg_icon/nub.png';
-import Analisis from '../assets/svg_icon/analisis.png';
-import vision from '../assets/svg_icon/vision.png';
-import software from '../assets/svg_icon/ordenador.png';
 import { Slide } from 'react-slideshow-image';
-import '../assets/css/animate.css/animate.min.css';
-import '../assets/css/animate.css/animate.css';
-import '../assets/css/animate.css/animate.compat.css';
-import '../assets/css/animate.css/source/fading_entrances/fadeIn.css';
-import '../assets/css/ionicons@4.2.2/css/ionicons.min.css';
-import '../assets/css/wazunga.scss';
 import '../assets/css/orproducts.css';
 import '../assets/css/responsive.css';
 import '../assets/css/Wazunga.css';
@@ -57,12 +45,12 @@ export default class services extends PureComponent {
 
             <div className="div-responsive" style={{ "margin-bottom": "10px" }}>
               <Slide {...fadeProperties} >
-                <img alt="service1" src={webDesign} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service2" src={mobile} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service3" src={dataBase} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service4" src={Analisis} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service5" src={vision} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service6" src={software} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service1" src={"https://ibb.co/4KknQmr"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service2" src={"https://ibb.co/WvF5Sfw"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service3" src={"https://ibb.co/J5kNgJc"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service4" src={"https://ibb.co/JRVtnct"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service5" src={"https://ibb.co/s9PBvhj"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service6" src={"https://ibb.co/mShCjGF"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
               </Slide>
             </div>
 

@@ -7,39 +7,40 @@ class SolutionC extends PureComponent {
         <div className="div-block-14">
           <img
             className="svg-3"
-            style = {{"width": "120px", height: "150px" ,marginRight:"100px", marginLeft: "90px"}}
+            style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "90px"}}
             src={require("../assets/icon/Web.png")}
-            alt=""
+            alt="Web Developer"
           />
           <img
             className="svg-3"
-            style = {{"width": "120px", height: "150px" ,marginRight:"100px", marginLeft: "0px"}}
+            style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
             src={require("../assets/icon/Mobile.png")}
-            alt=""
+            alt="Mobile Developer"
           />
           <img
             className="svg-3"
-            style = {{"width": "120px", height: "150px" ,marginRight:"100px", marginLeft: "0px"}}
+            style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
             src={require("../assets/icon/DataBase.png")}
-            alt=""
+            alt="Data Base"
           />
           <img
+          
             className="svg-3"
-            style = {{"width": "120px", height: "150px" ,marginRight:"100px", marginLeft: "0px"}}
+            style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
             src={require("../assets/icon/DataAnalytics.png")}
-            alt=""
+            alt="Data Analytics"
           />
            <img
             className="svg-3"
-            style = {{"width": "120px", height: "150px" ,marginRight:"100px", marginLeft: "0px"}}
+            style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
             src={require("../assets/icon/Vision.png")}
-            alt=""/>
+            alt="Computer Vision"/>
             
             <img
             className="svg-3"
-            style = {{"width": "120px", height: "150px" ,marginRight:"100px", marginLeft: "0px"}}
+            style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
             src={require("../assets/icon/SoftwareE.png")}
-            alt=""
+            alt="Software Daveloper"
           />
         </div>
       </div>
