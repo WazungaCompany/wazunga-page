@@ -6,14 +6,14 @@
     width: auto;
     background-color: #dedede;
     overflow: hidden;
-    padding: 75.0px;
+    padding: 75px;
 }
 
 .inner-container {
     width: 65%;
     float: right;
     background-color: #fdfdfd;
-    padding: 40.0px;
+    padding: 40px;
 }
 
 .inner-container h1 {
