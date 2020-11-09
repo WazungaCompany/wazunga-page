@@ -45,12 +45,12 @@ export default class services extends PureComponent {
 
             <div className="div-responsive" style={{ "margin-bottom": "10px" }}>
               <Slide {...fadeProperties} >
-                <img alt="service1" src={"https://ibb.co/4KknQmr"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service2" src={"https://ibb.co/WvF5Sfw"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service3" src={"https://ibb.co/J5kNgJc"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service4" src={"https://ibb.co/JRVtnct"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service5" src={"https://ibb.co/s9PBvhj"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
-                <img alt="service6" src={"https://ibb.co/mShCjGF"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service1" src={"https://i.ibb.co/17ctSvW/computadora.png"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service2" src={"https://i.ibb.co/DfkW3Qy/ui.png"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service3" src={"https://i.ibb.co/QrmZtwJ/nub.png"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service4" src={"https://i.ibb.co/TB62cw2/analisis.png"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service5" src={"https://i.ibb.co/b53fgx1/vision.png"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
+                <img alt="service6" src={"https://i.ibb.co/V3MW1tp/ordenador.png"} style={{ "width": "190px", height: "190px", "margin-top": "20px" }} />
               </Slide>
             </div>
 
