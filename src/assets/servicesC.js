@@ -8,38 +8,38 @@ class SolutionC extends PureComponent {
           <img
             className="svg-3"
             style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "90px"}}
-            src={require("../assets/icon/Web.png")}
+            src={"https://i.ibb.co/Wy4hWf7/Web.png"}
             alt="Web Developer"
           />
           <img
             className="svg-3"
             style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
-            src={require("../assets/icon/Mobile.png")}
+            src={"https://i.ibb.co/XDxVFCS/Mobile.png"}
             alt="Mobile Developer"
           />
           <img
             className="svg-3"
             style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
-            src={require("../assets/icon/DataBase.png")}
+            src={"https://i.ibb.co/2WK7w7x/DataBase.png"}
             alt="Data Base"
           />
           <img
           
             className="svg-3"
             style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
-            src={require("../assets/icon/DataAnalytics.png")}
+            src={"https://i.ibb.co/vwHK8tq/Data-Analytics.png"}
             alt="Data Analytics"
           />
            <img
             className="svg-3"
             style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
-            src={require("../assets/icon/Vision.png")}
+            src={"https://i.ibb.co/8bysntg/Vision.png"}
             alt="Computer Vision"/>
             
             <img
             className="svg-3"
             style = {{"width": "120px", height: "150px" ,marginRight:"90px", marginLeft: "0px"}}
-            src={require("../assets/icon/SoftwareE.png")}
+            src={"https://i.ibb.co/VBZcgk2/Software-E.png"}
             alt="Software Daveloper"
           />
         </div>
