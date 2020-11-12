@@ -33,7 +33,7 @@ class NavbarItems extends React.Component {
       <div>
         <BrowserRouter>
           <div>
-            <ol className="menu__content" style={{ "margin-top": "20px" }}>
+            <ol className="menu__content" style={{ "marginTop": "20px" }}>
               <a className="button__nhulox"><Link to="/wazunga-page">Home</Link></a>
             </ol>
           </div>

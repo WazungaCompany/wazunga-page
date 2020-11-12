@@ -48,4 +48,4 @@ class SolutionC extends PureComponent {
   }
 }
 
-export default SolutionC
+export default SolutionC;

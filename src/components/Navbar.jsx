@@ -48,7 +48,7 @@ class Navbar extends React.Component {
         <div className="nav-custom">
           <div className="menu__custom">
             <input style={{ marginInlineStart: "50px" }} id="menu__toggle" type="checkbox" className="menu__toggle" />
-            <label for="menu__toggle" className="menu__toggle-label menu-custom-icon">
+            <label htmlFor="menu__toggle" className="menu__toggle-label menu-custom-icon">
               <svg preserveAspectRatio="xMinYMin" viewBox="0 0 24 24">
                 <path d="M3,6H21V8H3V6M3,11H21V13H3V11M3,16H21V18H3V16Z" />
               </svg>
