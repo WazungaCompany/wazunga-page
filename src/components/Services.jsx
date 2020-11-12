@@ -6,7 +6,6 @@ import Responsive from '../assets/servicesR.js';
 import '../assets/css/Wazunga.css'
 import '../assets/css/orproducts.css';
 import '../assets/css/responsive.css';
-import '../assets/css/Wazunga.css';
 
 export default class services extends PureComponent {
   componentWillUnmount() {
