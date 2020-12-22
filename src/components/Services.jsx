@@ -27,7 +27,7 @@ export default class services extends PureComponent {
 
             <ScrollAnimation delay="1000" animateIn="fadeInUp" duration={1.5} animateOnce="true">
               <div className="div-block-87  ">
-                <Solutions />
+                <Solutions   />
               </div>
             </ScrollAnimation>
 
